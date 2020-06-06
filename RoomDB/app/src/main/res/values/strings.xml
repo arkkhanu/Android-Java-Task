@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RoomDB</string>
+    <string name="enter_registration_no">Enter Registration No</string>
+    <string name="father_name">Father Name</string>
+    <string name="address">Address</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="qualification">Qualification</string>
+    <string name="clear">Clear</string>
+    <string name="add_bio">Add Bio</string>
+    <string name="update">Update</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="name">Name</string>
+    <string name="registration_no">Registration No</string>
+    <string name="bio_database">Bio Database</string>
+</resources>
